@@ -6,6 +6,10 @@ dist/
 wheels/
 *.egg-info
 
+# Database and PGAdmin volumes
+ny_taxi_postgres_data/
+pgadmin_data/
+
 # parquet files
 *.parquet
 
