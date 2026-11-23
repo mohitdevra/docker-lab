@@ -18,3 +18,4 @@ pgadmin_data/
 
 .DS_Store
 .ipynb_checkpoints
+.env_encoded
